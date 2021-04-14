@@ -4,3 +4,12 @@ body {
 h1{
   text-align: center;
 }
+footer{
+  clear: both;
+  top-border: think solid #000;
+  text_align: center;
+}
+footer span{
+  align: center;
+  width: 350px;
+}
