@@ -5,24 +5,24 @@ h1{
   text-align: center;
 }
 h2{
-  text_align: center;
-  border_top: solid thin black;
-  border_bottom: solid thin black;
-  background_color: Gainsboro;
-  padding_top: 10px;
-  padding_bottom: 10px;
+  text-align: center;
+  border-top: solid thin black;
+  border-bottom: solid thin black;
+  background-color: Gainsboro;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 footer{
   clear: both;
   top-border: think solid #000;
-  text_align: center;
+  text-align: center;
 }
 footer span{
   align: center;
   width: 350px;
 }
 img {
-  float: center;
+  align: center;
   height: 200px;
 }
