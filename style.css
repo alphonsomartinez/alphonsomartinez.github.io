@@ -14,6 +14,6 @@ footer span{
   width: 350px;
 }
 img {
-  Align: center;
+  float: center;
   height: 200px;
 }
