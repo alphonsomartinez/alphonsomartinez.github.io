@@ -16,11 +16,7 @@ h2{
   padding-top: 10px;
   padding-bottom: 10px;
 }
- #address {
-  height: 50px;
-  margin-right: auto;
-  margin-left: auto;
-  width: 30%;
+ #address{
   text-align: center;
 }
   footer{
