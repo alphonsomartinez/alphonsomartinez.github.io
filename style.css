@@ -18,7 +18,8 @@ h2{
 }
  #address {
   height: 50px;
-  align: center;
+  margin-right: auto;
+  margin-left: auto;
   width: 30%;
   text-align: center;
 }
