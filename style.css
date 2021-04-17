@@ -20,7 +20,9 @@ h2{
   height: 250px;
   float: center;
   width: 30%;
-  text-align: center;footer{
+  text-align: center;
+}
+  footer{
   clear: both;
   top-border: think solid #000;
   text-align: center;
