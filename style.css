@@ -6,10 +6,10 @@ body {
   margin-left: 20px;
   }
 h1{
-  text-align: left;
+  text-align: center;
 }
 h2{
-  text-align: center;
+  text-align: left;
   border-top: solid thin black;
   border-bottom: solid thin black;
   background-color: Gainsboro;
