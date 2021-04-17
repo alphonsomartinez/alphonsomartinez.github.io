@@ -16,8 +16,11 @@ h2{
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
-footer{
+ #address {
+  height: 250px;
+  float: center;
+  width: 30%;
+  text-align: center;footer{
   clear: both;
   top-border: think solid #000;
   text-align: center;
