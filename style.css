@@ -22,7 +22,8 @@ h2{
 }
  #address{
   height: 100px;
-  width:25%;
+  float: center;
+  width:40%;
   vertical-align: bottom;
   border: solid 1px black;
   padding: 5px;
