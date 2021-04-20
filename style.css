@@ -18,7 +18,8 @@ h2{
   
  #address{
   height: 100px:
-  align: right;
+  margin-right; auto;
+  margin-left: auto;
   width: 25%;
   vertical-align: bottom;
   border: solid 1px black;
