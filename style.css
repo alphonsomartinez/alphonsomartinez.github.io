@@ -21,7 +21,7 @@ h2{
   align: right;
   width: 25%;
   vertical-align: bottom;
-  border: solid thin black;
+  border: solid 1px black;
   padding: 5px;
   text-align: center;
 }
