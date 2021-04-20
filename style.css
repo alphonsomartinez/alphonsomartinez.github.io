@@ -12,6 +12,8 @@ h2{
   text-align: left;
   border-top: solid thin black;
   border-bottom: solid thin black;
+  border-right: solid thin black;
+  border-left: solid thin black;
   background-color: Gainsboro;
   padding-top: 10px;
   padding-bottom: 10px;
