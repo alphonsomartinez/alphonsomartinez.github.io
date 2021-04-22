@@ -41,8 +41,6 @@ footer span{
   width: 350px;
 }
 img {
+  float:right;
   height: 200px;
 }
-img2 {
-  float: right;
-  heigt: 50px;
