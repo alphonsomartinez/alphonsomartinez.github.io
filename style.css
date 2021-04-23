@@ -36,15 +36,6 @@ h2{
   width: 200px;
   text-align:right;
 }
-  footer{
-  clear: both;
-  top-border: think solid #000;
-  text-align: center;
-}
-footer span{
-  align: center;
-  width: 350px;
-}
 img {
   height: 200px;
 }
