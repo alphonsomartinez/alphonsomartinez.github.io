@@ -48,3 +48,7 @@ img {
     border 3px solid #555;
      box-shadow: 5px 5px 5px grey;
 }
+p{
+    font-family:  serif;
+    font-weight: bold;
+}
