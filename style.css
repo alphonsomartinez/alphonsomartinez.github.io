@@ -12,10 +12,11 @@ h1{
 }
 h2{
   text-align: left;
-  border-top: solid thin black;
-  border-bottom: solid thin black;
-  border-right: solid thin black;
-  border-left: solid thin black;
+ border-top: solid  3px black;
+  border-bottom: solid  3px  black;
+  border-right: solid  3px black;
+  border-left: solid  3px black;
+  box-shadow: 5px 5px 5px grey;
   background-color: AntiqueWhite;
   padding-top: 10px;
   padding-bottom: 10px;
