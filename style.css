@@ -1,6 +1,6 @@
 body {
     background-image: url("whitecrumpledpaper.jpg");
- /* background-color: LightSeaGreen;*/
+  background-image: radial-gradient(white, rgb(33, 137, 151));
      background-repeat: repeat-y;
   font-family: helvetica, arial, "sans-serif";
   padding: 10px;
