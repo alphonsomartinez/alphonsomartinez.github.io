@@ -1,9 +1,10 @@
 body {
-  background-color: LightSeaGreen;
+    background-image: url("crumpled.jpg");
+ /* background-color: LightSeaGreen;
   font-family: helvetica, arial, "sans-serif";
   padding: 10px;
   margin-left: 75px;
-  margin-right: 75px;
+  margin-right: 75px;*/
   }
 h1{
   text-align: center;
