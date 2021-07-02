@@ -1,5 +1,5 @@
 body {
-    background-image: url("whitecrumpledpaper.jpg");
+ 
   background-image: radial-gradient(circle, white, rgb(194, 147, 147), rgb(132, 132, 155), rgb(133, 211, 133));
      background-repeat: repeat-y;
   font-family: helvetica, arial, "sans-serif";
@@ -9,9 +9,9 @@ body {
   }
 h1{
   text-align: center;
-  
+   text-shadow: 2px 2px 5px rgb(71, 90, 36), 0 0 10px rgb(211, 49, 49);
  
-  background-color: rgb(156, 173, 171);
+ 
 h2{
   text-align: left;
  border-top: solid  3px black;
@@ -19,6 +19,7 @@ h2{
   border-right: solid  3px black;
   border-left: solid  3px black;
   box-shadow: 5px 5px 5px grey;
+  text-align: left;
   background-color: AntiqueWhite;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -26,6 +27,7 @@ h2{
   padding-left: 5px;
 }
  #address{
+      text-align: center;
       border-top: solid  3px black;
   border-bottom: solid  3px  black;
   border-right: solid  3px black;
