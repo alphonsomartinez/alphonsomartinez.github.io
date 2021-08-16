@@ -1,63 +1,55 @@
-body {
- 
-  background-image: radial-gradient(circle, white, rgb(194, 147, 147), rgb(132, 132, 155), rgb(133, 211, 133));
-     background-repeat: repeat-y;
-  font-family: helvetica, arial, "sans-serif";
-  padding: 10px;
-  margin-left: 75px;
-  margin-right: 75px;
-  }
-h1{
-  text-align: center;
-   text-shadow: 2px 2px 5px rgb(71, 90, 36), 0 0 10px rgb(211, 49, 49);
- 
- 
+.div1{
+  float: right;
+}
 h2{
   text-align: left;
-border-top: solid  3px black;
+  border-top: solid  3px black;
   border-bottom: solid  3px  black;
   border-right: solid  3px black;
   border-left: solid  3px black;
- bodrer:3px;
-  box-shadow: 5px 5px 5px grey;
-  text-align: left;
-  background-color: AntiqueWhite;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 5px;
-  padding-left: 5px;
+ 
+ 
+  background-color: rgb(210, 231, 229);
+ 
+  
+  border-bottom-left-radius: 20px;
+ 
 }
+ 
  #address{
-      text-align: center;
-      border-top: solid  3px black;
+  border-top: solid  3px black;
   border-bottom: solid  3px  black;
   border-right: solid  3px black;
   border-left: solid  3px black;
   border: solid 3px black;
   height: 100px;
-  float: center;
+  float: left;
   width:25%;
   margin-right: auto;
   margin-left: auto;
   vertical-align: bottom;
-  background-color: AntiqueWhite;
-
+  background-color: rgb(210, 231, 229);
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
   padding: 5px;
   text-align: center;
-  box-shadow: 5px 5px 5px grey;
-   
+  box-shadow: 5px 5px 5px  rgb(192, 204, 125);
+
+  
 }
 .year {
   float: right;
   width: 200px;
   text-align:right;
+  color: rgb(115, 192, 173);
 }
-img {
-  height: 200px;
-    border: 3px solid black;
-     box-shadow: 5px 5px 5px grey;
-}
+
+
 p{
     font-family:  serif;
     font-weight: bold;
 }
+
+  
+
